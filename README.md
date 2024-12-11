@@ -19,6 +19,31 @@ Welcome to the **Car Rental System** repository, a project developed with a focu
 
 ---
 
+<div align="center">
+    <table>
+        <tr>
+            <td style="width: 50%; text-align: center;">
+                <img src="img_proj/img_proj01_web_project.png" style="width: 90%;" alt="01_web_project">
+                <p style="margin-top: 5px;">Web_project</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="img_proj/02_web_project_date_value.png" style="width: 90%;" alt="02_web_project_date_value">
+                <p style="margin-top: 5px;">Web_project_date_value</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center;">
+                <video width="90%" controls>
+                    <source src="img_proj/Loc_Car 🚗_BR.mp4" type="video/mp4">
+                    Seu navegador não suporta a tag de vídeo.
+                </video>
+                <p style="margin-top: 5px;">Demonstração em vídeo</p>
+            </td>
+        </tr>
+    </table>
+</div>
+-----
+
 ## 📊 **Technologies Used**
 
 ### Frontend:
